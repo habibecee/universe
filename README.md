@@ -12,3 +12,7 @@ PROJE YALNIZCA MIX BLEND MODE UYGULAMASINI GÖREBİLMEK AMACIYLA YAPILDIĞINDAN 
 
 <h4> SİTE GÖRÜNÜMÜ </h4> </br>
 ![](https://github.com/habibecee/universe/blob/main/universe-screen.gif) 
+
+![](universe-screen.gif) 
+
+
