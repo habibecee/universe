@@ -11,7 +11,6 @@ BU SİTENİN YAPIMINDA BASİT DÜZEY HTML VE CSS BİLGİSİ KULLANILMIŞTIR. AYN
 PROJE YALNIZCA MIX BLEND MODE UYGULAMASINI GÖREBİLMEK AMACIYLA YAPILDIĞINDAN EKLEME VE DEĞİŞİKLİK YAPILMASI PLANLANMAMAKTADIR.  </br>
 
 <h4> SİTE GÖRÜNÜMÜ </h4> </br>
-![](https://github.com/habibecee/universe/blob/main/universe-screen.gif) 
 
 ![](universe-screen.gif) 
 
